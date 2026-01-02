@@ -1,4 +1,4 @@
-# MindMesh_Live-Chat
+# SPUR_MindMesh_Live-Chat
 
 A full-stack AI-powered real-time customer support chat application built with React, Node.js, TypeScript, MySQL, and Redis, designed to deliver intelligent, scalable, and low-latency conversational experiences.
 ## 🚀 Quick Start
