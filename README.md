@@ -1,7 +1,6 @@
-# Spur AI Live Chat Agent
+# MindMesh_Live-Chat
 
-A full-stack AI-powered customer support chat application built with React, Node.js, TypeScript, MySQL, and Redis.
-
+A full-stack AI-powered real-time customer support chat application built with React, Node.js, TypeScript, MySQL, and Redis, designed to deliver intelligent, scalable, and low-latency conversational experiences.
 ## 🚀 Quick Start
 
 ### Prerequisites
